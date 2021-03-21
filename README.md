@@ -1,12 +1,12 @@
 # 1
 
 ``` 
-**install chromedriver to your google chrome version **
+install chromedriver to your google chrome version 
 ```
 # [Download chromedriver](https://chromedriver.chromium.org/)
 
 ``` 
-**Add your token**
+Add your token
 ```
 
 # c#
