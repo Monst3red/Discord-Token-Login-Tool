@@ -1,2 +1,3 @@
-# Discord-Token-Login-Tool
-Simple discord token login tool in python and c#
+# 1
+
+``` install chromedriver to your google chrome version ```
