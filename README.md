@@ -1,7 +1,7 @@
 ``` 
 install chromedriver to your google chrome version 
 ```
-# [Download chromedriver](https://chromedriver.chromium.org/)
+# [Download chromedriver](https://chromedriver.chromium.org/) - # [Discord](https://discord.gg/NS7zRrv2CN)
 
 ``` 
 Add your token
